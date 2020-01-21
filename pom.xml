@@ -13,7 +13,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.1.6.RELEASE</version>
+            <version>5.2.0.RELEASE</version>
         </dependency>
         <!--provided表明该包只在编译和测试的时候用-->
         <dependency>
